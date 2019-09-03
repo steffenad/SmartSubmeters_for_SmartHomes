@@ -11,11 +11,18 @@
   Smart Homes that providing owners with power usage analytics.
  
   Task: To analyze this data to determine what kind of analytics and visualizations can
-  be created that would empower Smart Home owners with greater understanding and control 
+  be created that would empower "Smart Home" owners with greater understanding and control 
   of their power usage.
 
 
 ### Data Set:
+
+Abstract: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. The Data Set contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
+
+Size Data Set: 2075259
+
+Number of Attributes: 9
+
 
 Attribute Information:
 

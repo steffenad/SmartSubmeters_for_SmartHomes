@@ -2,7 +2,7 @@
 
 #                         Smart Submeters for Smart Homes
 
-###                     Explore and Visualize Energy Consumption
+###                     Explore and Visualize Energy Consumption with R and Tableau
 
 
 #

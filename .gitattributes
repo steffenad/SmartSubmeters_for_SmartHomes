@@ -1,2 +1,4 @@
- *linguist-vendored
- *.ipynb linguist-vendored=false
+
+initial-SmartSubmeters_for_SmartHomes/* linguist-vendored
+initial-SmartSubmeters_for_SmartHomes/Smartsubmeters1.ipynb linguist-vendored=false
+initial-SmartSubmeters_for_SmartHomes/Smartsubmeters2.ipynb linguist-vendored=false

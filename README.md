@@ -14,7 +14,9 @@ IOT ANALYTICS is a fictive company. I am working as a Data Scientist for this co
   could be a big step towards the developer's goal of offering highly efficient 
   Smart Homes.
  
-  **Task**: To analyze this data to determine what kind of analytics and visualizations can
+ ## **Task**: 
+ 
+  To analyze this data to determine what kind of analytics and visualizations can
   be created that would empower "Smart Home" owners with greater understanding and control 
   of their power usage.
 

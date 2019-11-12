@@ -10,16 +10,16 @@
 IOT ANALYTICS is a fictive company. I am working as a Data Scientist for this company to help a client which is interested to use ML for their business. 
 
   A regional home developer wants to use data analytics for a new set of electrical 
-  sub-metering devices for power management in Smart Homes. Installing these submeters
+  sub-metering devices for **power management in Smart Homes**. Installing these submeters
   could be a big step towards the developer's goal of offering highly efficient 
   Smart Homes.
  
-  Task: To analyze this data to determine what kind of analytics and visualizations can
+  **Task**: To analyze this data to determine what kind of analytics and visualizations can
   be created that would empower "Smart Home" owners with greater understanding and control 
   of their power usage.
 
 
-### Data Set:
+## Data Set:
 
 Abstract: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. The Data Set contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 

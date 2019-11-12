@@ -7,10 +7,12 @@
 
 #
 
-  A regional home developer wants to develop analytics for a new set of electrical 
-  sub-metering devices used for power management in Smart Homes. Installing these submeters
+IOT ANALYTICS is a fictive company. I am working as a Data Scientist for this company to help a client which is interested to use ML for their business. 
+
+  A regional home developer wants to use data analytics for a new set of electrical 
+  sub-metering devices for power management in Smart Homes. Installing these submeters
   could be a big step towards the developer's goal of offering highly efficient 
-  Smart Homes that providing owners with power usage analytics.
+  Smart Homes.
  
   Task: To analyze this data to determine what kind of analytics and visualizations can
   be created that would empower "Smart Home" owners with greater understanding and control 
@@ -45,3 +47,5 @@ Attribute Information:
 8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 
 9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+

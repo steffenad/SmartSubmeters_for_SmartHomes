@@ -23,7 +23,7 @@ IOT ANALYTICS is a fictive company. I am working as a Data Scientist for this co
 
 ## Data Set:
 
-Abstract: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. The Data Set contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
+**Abstract**: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. The Data Set contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 
 Size Data Set: 2075259
 
